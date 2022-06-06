@@ -27,5 +27,63 @@ E você pode usar mais de um material para formar e na área de
 Artefatos você poderá ver as muitas formas que você tem e na área de pedidos
 você deve cumprir os pedidos para acumular pontos.
 
+3- Mechanicas :
+
+- <Mecânica #1>
+
+- <Selecionar os Minérios>
+
+<Navegação entre os 3 minérios do jogo( cobre, ferro, ouro)>
+
+- <Como funcionará?>
+- 
+<Ao apertar os botões laterais você navegará entre os
+minérios, da esquerda a direita, e quando clicar os outros 2 botões, seu
+personagem irá coletar o minério selecionado.>
+
+- <Mecânica #2>
+
+- <Derreter os Minérios>
+- 
+<Navegação entre os caldeirões>
+
+- <Como funcionará?>
+
+<Apertando os botões laterais você vai navegar entre os 3
+caldeirões respectivos a cada minério(cobre, ferro e ouro), após o passar de 5
+segundo você poderá apertar o botão inferior para despejar em cima das
+formas.>
+
+- <Mecânica #3>
+- <Selecionar a Forma>
+  
+<Ao derreter o minério o jogador deverá selecionar qual
+equipamento ele irá fazer dentre, espada, escudo e armadura.>
+
+- <Como funcionará?>
+  
+<Após derreter os minérios você poderá selecionar qual
+equipamento você vai fazer para vender, apenas navegando entre eles com os
+botões laterais e selecionando com o outro botão.>
+  
+- <Mecânica #4>
+  
+- <Navegação>
+  
+<Ao clicar os botões laterais você vai navegar entre os
+objetos na primeira área, e ao clicar o botão superior utilizará o objeto, e ao
+clicar o botão inferior irá mudar entre as áreas de trabalho (derreter, forma,
+estoque, pedido).>
+  
+- <Como funcionará?>
+  
+<existirão 4 áreas de trabalho, uma para derreter os
+minérios, uma para fazer o equipamento, uma que mostra seu estoque de
+equipamentos, e uma com os pedidos, você irá se movimentar entre elas
+clicando o botão inferior, podendo assim utilizar os botões laterais para se
+movimentar entre os objetos nas áreas, e usando do botão superior para
+utilizar elas>
+
+
 
 
